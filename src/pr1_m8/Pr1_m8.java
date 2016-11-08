@@ -35,17 +35,3 @@ bw.close();
 } }
 
 } 
-/*
-bw.write(" <body>");
-bw.newLine();
-bw.write(" Nova p&agrave;gina web"); bw.newLine();
-bw.write(" </body>");
-bw.newLine();
-bw.write("</html>");
-bw.newLine();
-bw.close(); 
-
-
-
-
-*/
